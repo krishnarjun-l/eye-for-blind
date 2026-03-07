@@ -22,8 +22,9 @@ The model utilizes an **Encoder-Decoder architecture** with Attention mechanisms
 * **Speech:** gTTS (Google Text-to-Speech) 
 
 ## 📂 Repository Structure
-├── notebooks/          # Eye_For_Blind_Capstone_Project.ipynb
-├── data/               # captions.txt (Sample data)
-├── requirements.txt    # Project dependencies
-└── README.md           # Project documentation
+* notebooks/          # Eye_For_Blind_Capstone_Project.ipynb
+* data/               # captions.txt (Sample data)
+* requirements.txt    # Project dependencies
+* README.md           # Project documentation
+
 
