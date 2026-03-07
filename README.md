@@ -25,5 +25,5 @@ The model utilizes an **Encoder-Decoder architecture** with Attention mechanisms
 ├── notebooks/          # Eye_For_Blind_Capstone_Project.ipynb
 ├── data/               # captions.txt (Sample data)
 ├── requirements.txt    # Project dependencies
-
 └── README.md           # Project documentation
+
