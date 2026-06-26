@@ -13,6 +13,9 @@ The model utilizes an **Encoder-Decoder architecture** with Attention mechanisms
 * **Source:** Kaggle Image Captioning Dataset.
 * **Scale:** 40,455 images paired with corresponding text captions.
 * **Preprocessing:** Captions were cleaned, tokenized, and padded; images were normalized for InceptionV3 compatibility.
+* 
+https://www.kaggle.com/code/quadeer15sh/flickr8k-image-captioning-using-cnns-lstms
+
 
 ## 🛠️ Tech Stack
 * **Language:** Python 
