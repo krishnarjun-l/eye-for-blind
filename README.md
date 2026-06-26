@@ -25,9 +25,10 @@ https://www.kaggle.com/code/quadeer15sh/flickr8k-image-captioning-using-cnns-lst
 * **Speech:** gTTS (Google Text-to-Speech) 
 
 ## 📂 Repository Structure
-* notebooks/          # Eye_For_Blind_Capstone_Project.ipynb
-* data/               # captions.txt (Sample data)
-* requirements.txt    # Project dependencies
-* README.md           # Project documentation
+```
+├── Eye_For_Blind_Capstone_Project.ipynb
+├── requirements.txt
+└── README.md
+```
 
 
